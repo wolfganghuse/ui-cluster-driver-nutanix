@@ -123,7 +123,7 @@ export default Ember.Component.extend(ClusterDriver, {
         workernodes: 1,
         image: "ntnx-1.1",
         version: "1.20.9-0",
-        karbonversion: "2.3.0",
+        karbonversion: "2.3",
         cluster: "",
         vmnetwork: "",
         workercpu: 8,

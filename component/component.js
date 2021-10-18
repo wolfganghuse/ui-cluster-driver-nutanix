@@ -31,7 +31,7 @@ const filesystemMap = {
 
 const karbonVersionAndChoicesMap = {
 
-  '2.3.0': {
+  '2.3': {
     '1.20.9-0': '1.20.9-0',
     '1.19.13-0': '1.19.13-0',
     '1.18.20-0': '1.18.20-0',
